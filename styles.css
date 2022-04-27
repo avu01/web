@@ -1,0 +1,28 @@
+form {
+    width: 180;
+    height: 500;
+}
+
+header {
+    width: 124px;
+    color: aqua;
+    border: 2px solid black;
+    padding-left: 14%;
+    height: 2000%;
+}
+
+.body {
+    width: 333;
+}
+
+label {
+    width: 400px;
+}
+
+footer {
+    padding-right: 40%;
+}
+
+Nombre {
+    color: aquamarine;
+}
